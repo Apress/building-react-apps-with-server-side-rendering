@@ -1,0 +1,1 @@
+Please run the 'npm install' command from your terminal before launching the app in order to install dependencies to the project folder.

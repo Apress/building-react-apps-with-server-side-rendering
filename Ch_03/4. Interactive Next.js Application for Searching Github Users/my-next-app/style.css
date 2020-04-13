@@ -1,0 +1,67 @@
+a {
+    color: blue;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.p1 {
+    background: url(/static/Images/1.jpg);
+}
+
+.p2 {
+    background: url(/static/Images/2.jpg);
+}
+
+.p3 {
+    background: url(/static/Images/3.jpg);
+}
+
+body {
+    font-family: sans-serif;
+}
+
+body div h1 {
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.UserBlock {
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px;
+    width: 255px;
+}
+
+.UserDetails {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    font-size: 26px;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}

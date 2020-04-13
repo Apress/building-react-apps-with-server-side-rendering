@@ -1,0 +1,14 @@
+{
+  "name": "jest-testing-app",
+  "version": "1.0.0",
+  "description": "My Jest Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mohit Thakkar",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}

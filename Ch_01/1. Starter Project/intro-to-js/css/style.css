@@ -1,0 +1,17 @@
+body{
+    margin-top:20px;
+    margin-left:20px;
+}
+
+h1{
+    font-size:50px;
+}
+
+#ResultContainer{
+    margin-top:30px;
+    padding:10px;
+    width:450px;
+    height:200px;
+    border:1px solid black;
+    font-size:30px;
+}

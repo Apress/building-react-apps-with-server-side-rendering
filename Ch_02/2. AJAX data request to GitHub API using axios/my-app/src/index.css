@@ -1,0 +1,27 @@
+body{
+  font-family: sans-serif;
+}
+
+#root div h1{
+    text-align: center;
+}
+
+img{
+  height:50px;
+  width:50px;
+  border: 1px solid black;
+}
+
+.UserBlock{
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 15px;
+  width:255px;
+}
+
+.UserDetails{
+  display: inline-block;
+  margin-left:15px;
+}

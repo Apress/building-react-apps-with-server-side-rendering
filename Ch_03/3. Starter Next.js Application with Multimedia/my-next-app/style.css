@@ -1,0 +1,27 @@
+a{
+    color:blue;
+}
+
+.img{
+    height: 50px;
+    width: 50px;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.p1{
+    background: url(/static/Images/1.jpg);
+}
+
+.p2{
+    background: url(/static/Images/2.jpg);
+}
+
+.p3{
+    background: url(/static/Images/3.jpg);
+}
